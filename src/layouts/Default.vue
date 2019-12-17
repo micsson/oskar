@@ -42,8 +42,8 @@
         </transition>
         <!-- <site-sidebar/> -->
       </b-row>
+      </div>
       <site-footer/>
-    </div>
   </div>
 </template>
 

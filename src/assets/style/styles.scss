@@ -127,4 +127,19 @@ img.aligncenter {
   margin-bottom: 1.5rem;
 }
 
+footer{
 
+  background-color: black;
+  padding: 0.9rem;
+
+  h2, h3{
+    color: white;
+  }
+
+  a{
+    color: white;    
+  }
+  a:hover {
+    color: darkgrey;
+  }
+}

@@ -11,8 +11,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Gridsome',
-  siteDescription: 'A WordPress starter for Gridsome',
+  siteName: 'Oskar',
+  siteDescription: 'A Headless WordPress site for graphical artist Oskar Laurin',
   plugins: [
     {
       use: '~/src/plugins/wp-source/',

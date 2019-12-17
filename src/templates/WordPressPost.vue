@@ -5,7 +5,7 @@
         <h1 class="text-break" v-html="$page.post.title" />
       </header>
       <template v-if="$page.post.tags.length">
-        <h2 class="font-family-sans-serif h4">Tags:</h2>
+        <!-- <h2 class="font-family-sans-serif h4">Tags:</h2>
         <ul class="list-inline">
           <li class="list-inline-item" v-for="tag in $page.post.tags" :key="tag.id">
             <b-button
@@ -15,7 +15,7 @@
               :to="tag.path"
             >{{ tag.title }} ({{ tag.count }})</b-button>
           </li>
-        </ul>
+        </ul> -->
 
         <g-link to="/" class="text-dark">
           <h2>Home</h2>
