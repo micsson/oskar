@@ -20,13 +20,13 @@
       <div class="row">
       <div class="col-10">
         
-         <h2>
+         <h1>
           Oskar Laurin is a Stockholm based designer, 
           working in the fields of visual communication and art direction.
-          </h2>
-          <h2>MFA in Visual Communication from Konstfack.</h2> 
+          </h1>
+          <h1>MFA in Visual Communication from Konstfack.</h1> 
         
-        <h2>laurin.oskar@gmail.com</h2>
+        <h1>laurin.oskar@gmail.com</h1>
         
       </div>
     </div>

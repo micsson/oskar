@@ -22,7 +22,7 @@
       <slot>
         <div class="post-excerpt text-break mb-4" v-html="post.excerpt" />
         <g-link :to="post.path" class="text-dark">
-          <h2 class="h1 post-title text-break mb-4" v-html="post.title" />
+          <h2 class="post-title text-break mb-4" v-html="post.title" />
         </g-link>
         <!-- <read-more :post="post" /> -->
       </slot>
